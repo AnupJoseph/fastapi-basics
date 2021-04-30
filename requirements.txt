@@ -1,4 +1,0 @@
-fastapi
-spacy
-uvicorn
-rich
