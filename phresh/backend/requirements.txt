@@ -1,4 +1,9 @@
+# App requirements
 fastapi==0.63.0
 uvicorn==0.13.4
 pydantic==1.8.1
 email-validator==1.1.2
+# DB
+databases[postgresql]==0.4.3
+SQLAlchemy==1.4.13
+alembic==1.6.0
